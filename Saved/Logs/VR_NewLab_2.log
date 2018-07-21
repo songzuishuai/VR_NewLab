@@ -1,0 +1,1330 @@
+﻿Log file open, 05/29/18 11:10:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VR_NewLab
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-822728307) SRandInit(-822728307).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.312580
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took 12.174s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-4C1UK45 (192.168.2.105:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.29-03.10.47:260][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.29-03.10.47:260][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.29-03.10.47:454][  0]LogInit: Computer: DESKTOP-4C1UK45
+[2018.05.29-03.10.47:454][  0]LogInit: User: 翁小松
+[2018.05.29-03.10.47:454][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.29-03.10.47:454][  0]LogInit: High frequency timer resolution =2.143578 MHz
+[2018.05.29-03.10.47:455][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.29-03.10.47:455][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.29-03.10.47:455][  0]LogMemory: Process Physical Memory: 278.09 MB used, 278.09 MB peak
+[2018.05.29-03.10.47:455][  0]LogMemory: Process Virtual Memory: 264.93 MB used, 264.93 MB peak
+[2018.05.29-03.10.47:455][  0]LogMemory: Physical Memory: 5016.90 MB used,  3064.38 MB free, 8081.27 MB total
+[2018.05.29-03.10.47:455][  0]LogMemory: Virtual Memory: 699.83 MB used,  3064.38 MB free, 134217728.00 MB total
+[2018.05.29-03.10.48:652][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.05.29-03.10.48:652][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.05.29-03.10.52:328][  0]LogStreaming: Display: Took  3.676s to EndInitTextLocalization.
+[2018.05.29-03.10.52:328][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.29-03.10.53:192][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.29-03.10.53:192][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.29-03.10.56:202][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.29-03.10.56:296][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 730M' (Feature Level 11_0)
+[2018.05.29-03.10.56:296][  0]LogD3D11RHI:       2020/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.29-03.10.56:303][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.05.29-03.10.56:303][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.29-03.10.56:327][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.29-03.10.56:327][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.29-03.10.56:327][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.29-03.10.56:336][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.29-03.10.56:336][  0]LogD3D11RHI:     GPU DeviceId: 0x1290 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.29-03.10.56:336][  0]LogWindows: EnumDisplayDevices:
+[2018.05.29-03.10.56:336][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.05.29-03.10.56:337][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:1)
+[2018.05.29-03.10.56:339][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.05.29-03.10.56:339][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.29-03.10.56:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 730M
+[2018.05.29-03.10.56:339][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.29-03.10.56:339][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.29-03.10.56:339][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.05.29-03.10.56:386][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.29-03.10.56:386][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.29-03.10.56:386][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.29-03.10.56:402][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.29-03.10.56:404][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (E:/VR学习/VR_NewLab/Intermediate/Shaders/WorkingDirectory/4160/).
+[2018.05.29-03.10.56:405][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/翁小松/AppData/Local/Temp/UnrealShaderWorkingDir/E985E31A48413B99DEA6A5B114866005/'.
+[2018.05.29-03.10.57:310][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.29-03.10.57:336][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.29-03.10.57:360][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.29-03.10.57:380][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.29-03.10.57:434][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.29-03.10.57:455][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.29-03.10.57:476][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.29-03.10.57:495][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.29-03.10.57:505][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.29-03.10.57:524][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.29-03.10.57:543][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.29-03.10.57:562][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.29-03.10.57:580][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.29-03.10.57:599][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.29-03.10.57:618][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.29-03.10.57:657][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.29-03.10.57:657][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.29-03.10.57:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.29-03.10.57:708][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.29-03.10.57:801][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.29-03.10.57:819][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.29-03.10.57:838][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.29-03.10.57:858][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.29-03.10.57:877][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.29-03.10.57:922][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.29-03.10.57:922][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.29-03.10.58:721][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.29-03.10.58:721][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.29-03.10.58:721][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.29-03.10.59:851][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.29-03.11.00:446][  0]LogDerivedDataCache: Loaded boot cache 0.60s 74MB C:/Users/翁小松/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.29-03.11.00:447][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/翁小松/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.29-03.11.00:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/VR学习/VR_NewLab/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.29-03.11.00:447][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.29-03.11.00:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/VR学习/VR_NewLab/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.29-03.11.00:447][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.29-03.11.00:491][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.29-03.11.00:507][  0]LogDerivedDataCache: Using Local data cache path C:/Users/翁小松/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.29-03.11.00:507][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.29-03.11.00:507][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.29-03.11.00:527][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.29-03.11.00:527][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.29-03.11.00:543][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.29-03.11.00:543][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.29-03.11.03:415][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2018.05.29-03.11.04:415][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.29-03.11.04:836][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.29-03.11.04:871][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.29-03.11.04:871][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.29-03.11.04:871][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.29-03.11.04:871][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.29-03.11.04:871][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.29-03.11.04:960][  0]LogNetVersion: VR_NewLab , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3870744136)
+[2018.05.29-03.11.05:734][  0]LogMeshUtilities: Finished distance field build in 0.5s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2018.05.29-03.11.05:734][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.067983 seconds
+[2018.05.29-03.11.05:745][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.29-03.11.05:745][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.29-03.11.05:745][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Finished distance field build in 0.9s - 28x28x38 distance field, 448 triangles, Range [-0.5, 0.6], EditorCylinder
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 835 triangles, Range [-0.1, 0.8], GearVRController
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Finished distance field build in 7.8s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], EditorSkySphere
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Finished distance field build in 0.2s - 8x38x38 distance field, 32 triangles, Range [-0.1, 1.0], EditorPlane
+[2018.05.29-03.11.19:248][  0]LogMeshUtilities: Finished distance field build in 3.4s - 48x48x48 distance field, 3968 triangles, Range [-0.6, 1.0], EditorSphere
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 1.9s - 38x38x38 distance field, 12 triangles, Range [-0.6, 0.6], EditorCube
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 180 triangles, Range [-0.4, 0.8], JointSphere
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 40 triangles, Range [-0.5, 0.6], LineSegmentCylinder
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.1s - 25x15x8 distance field, 196 triangles, Range [0.0, 0.7], TeleportDirectionMesh
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 440 triangles, Range [-0.0, 0.4], SM_Dialog_Close
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 240 triangles, Range [-0.0, 0.4], SM_Dialog_Move
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Discarded distance field for SM_ContentWindow_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x15x15 distance field, 670 triangles, Range [-0.1, 1.0], SM_ContentWindow_01
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1728 triangles, Range [1.0, 1.0], SM_Radial_Disk
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 744 triangles, Range [1.0, 1.0], SM_Radial_Pointer
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 32 triangles, Range [1.0, 1.0], PlaneMesh
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Discarded distance field for LaserPointerMesh_End as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1084 triangles, Range [-0.5, 0.6], LaserPointerMesh_End
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Discarded distance field for LaserPointerMesh_Start as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1084 triangles, Range [-0.5, 0.6], LaserPointerMesh_Start
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 5818 triangles, Range [-0.0, 0.7], GenericHMD
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12554 triangles, Range [-0.1, 1.0], OculusControllerMesh
+[2018.05.29-03.11.20:192][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 17326 triangles, Range [-0.1, 0.6], VivePreControllerMesh
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Finished distance field build in 0.5s - 15x30x30 distance field, 254 triangles, Range [-0.2, 1.0], CursorPointer
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 528 triangles, Range [-0.4, 0.9], HoverMesh
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Discarded distance field for LaserPointerMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1024 triangles, Range [-0.5, 0.6], LaserPointerMesh
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Discarded distance field for S_1_Unit_Plane as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 32 triangles, Range [-0.4, 0.7], S_1_Unit_Plane
+[2018.05.29-03.11.20:620][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 6252 triangles, Range [-0.1, 0.6], SM_CineCam
+[2018.05.29-03.11.20:621][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1672 triangles, Range [-0.1, 0.4], SM_RailRig_Mount
+[2018.05.29-03.11.20:621][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.29-03.11.20:680][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 1488 triangles, Range [-0.0, 0.4], SM_RailRig_Track
+[2018.05.29-03.11.20:681][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.29-03.11.21:292][  0]LogMeshUtilities: Finished distance field build in 0.5s - 21x50x21 distance field, 916 triangles, Range [-0.1, 0.6], SM_CraneRig_Body
+[2018.05.29-03.11.21:292][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x9 distance field, 192 triangles, Range [-0.2, 0.6], Cylinder
+[2018.05.29-03.11.21:292][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x13 distance field, 200 triangles, Range [-0.3, 0.7], SM_CraneRig_Mount
+[2018.05.29-03.11.21:292][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12 triangles, Range [-0.3, 0.3], SM_CraneRig_Arm
+[2018.05.29-03.11.21:536][  0]SourceControl: Source control is disabled
+[2018.05.29-03.11.21:536][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2018.05.29-03.11.21:536][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.05.29-03.11.21:537][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2018.05.29-03.11.21:537][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.05.29-03.11.21:538][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2018.05.29-03.11.21:538][  0]LogWindows: Warning: URL: C:\Users\翁小松\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.05.29-03.11.21:539][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2018.05.29-03.11.21:539][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.05.29-03.11.21:540][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2018.05.29-03.11.21:540][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.05.29-03.11.21:540][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2018.05.29-03.11.21:540][  0]LogWindows: Warning: URL: C:\Users\翁小松\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.05.29-03.11.23:580][  0]LogMeshUtilities: Finished distance field build in 0.4s - 31x27x20 distance field, 1068 triangles, Range [-0.1, 1.0], SM_CraneRig_Base
+[2018.05.29-03.11.23:580][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 664 triangles, Range [-0.2, 0.7], SM_Sequencer_Key
+[2018.05.29-03.11.23:580][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.0, 0.3], BoundingBoxEdge
+[2018.05.29-03.11.23:580][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 172 triangles, Range [-0.0, 1.0], BoundingBoxCorner
+[2018.05.29-03.11.23:580][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 120 triangles, Range [-0.0, 0.4], PlaneTranslationHandle
+[2018.05.29-03.11.23:580][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.4, 0.6], SM_Sequencer_Node
+[2018.05.29-03.11.25:000][  0]LogMeshUtilities: Finished distance field build in 3.4s - 48x48x48 distance field, 528 triangles, Range [-0.6, 1.0], Sphere
+[2018.05.29-03.11.25:000][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.29-03.11.25:296][  0]LogOcInput: OculusInput pre-init called
+[2018.05.29-03.11.25:618][  0]LogEngine: Initializing Engine...
+[2018.05.29-03.11.25:625][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.29-03.11.25:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.29-03.11.25:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.29-03.11.26:021][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.29-03.11.26:034][  0]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.29-03.11.26:074][  0]LogInit: FAudioDevice initialized.
+[2018.05.29-03.11.26:204][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/翁小松/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.29-03.11.26:218][  0]LogInit: Texture streaming: Enabled
+[2018.05.29-03.11.26:284][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.29-03.11.26:368][  0]LogInit: Transaction tracking system initialized
+[2018.05.29-03.11.26:585][  0]BlueprintLog: New page: Editor Load
+[2018.05.29-03.11.27:154][  0]LocalizationService: Localization service is disabled
+[2018.05.29-03.11.27:931][  0]LogConsoleResponse: Display: 
+[2018.05.29-03.11.28:786][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.29-03.11.28:786][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.29-03.11.28:786][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.29-03.11.28:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.29-03.11.28:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.29-03.11.29:045][  0]LogFileCache: Scanning file cache for directory 'E:/VR学习/VR_NewLab/Content/' took 0.11s
+[2018.05.29-03.11.30:542][  0]Cmd: MAP LOAD FILE="E:/VR学习/VR_NewLab/Content/StarterContent/Maps/VR_Lab.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.29-03.11.30:543][  0]LightingResults: New page: Lighting Build
+[2018.05.29-03.11.30:567][  0]MapCheck: New page: Map Check
+[2018.05.29-03.11.30:567][  0]LightingResults: New page: Lighting Build
+[2018.05.29-03.11.30:645][  0]LogMeshUtilities: Finished distance field build in 0.7s - 30x30x30 distance field, 48 triangles, Range [-0.6, 0.6], Cube
+[2018.05.29-03.11.30:645][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1dd0b330, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/StarterContent/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.29-03.11.30:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1dd0b330, Size=72
+[2018.05.29-03.11.30:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b040e24d0, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.29-03.11.30:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b0400bab0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/StarterContent/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.29-03.11.30:677][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b01262460, Size=8, Default__BP_Fond_C Function /Game/StarterContent/Blueprints/SpawnActorBlueprint/BP_Fond.BP_Fond_C:ExecuteUbergraph_BP_Fond
+[2018.05.29-03.11.30:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b01262460, Size=8
+[2018.05.29-03.11.30:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b01262460, Size=8, Default__BP_Fond_C Function /Engine/Transient.REINST_BP_Fond_C_4:ExecuteUbergraph_BP_Fond
+[2018.05.29-03.11.30:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b012622b0, Size=8, Default__BP_Fond_C Function /Game/StarterContent/Blueprints/SpawnActorBlueprint/BP_Fond.BP_Fond_C:ExecuteUbergraph_BP_Fond
+[2018.05.29-03.11.30:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b04c9eb60, Size=136, Default__ThirdPersonCharacter_C Function /Game/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.11.30:783][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b04ca1a80, Size=328, Default__SelectLab_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/SelectLab.SelectLab_C:ExecuteUbergraph_SelectLab
+[2018.05.29-03.11.30:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b048ee080, Size=2832, Default__FirstPersonCharacter1_C Function /Game/StarterContent/Blueprints/PersonBP/FirstPersonCharacter1.FirstPersonCharacter1_C:ExecuteUbergraph_FirstPersonCharacter1
+[2018.05.29-03.11.31:009][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b04cad5a0, Size=16, Default__LabDirectionMenu1_1_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu1_1.LabDirectionMenu1_1_C:ExecuteUbergraph_LabDirectionMenu1_1
+[2018.05.29-03.11.31:010][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b0400ed10, Size=48, Default__LabDirectionMenu1_2_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu1_2.LabDirectionMenu1_2_C:ExecuteUbergraph_LabDirectionMenu1_2
+[2018.05.29-03.11.31:217][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b0548c100, Size=3040, Default__FirstPersonCharacter2_C Function /Game/StarterContent/Blueprints/PersonBP/FirstPersonCharacter2.FirstPersonCharacter2_C:ExecuteUbergraph_FirstPersonCharacter2
+[2018.05.29-03.11.31:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b058b0800, Size=16, Default__LabDirectionMenu2_1_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu2_1.LabDirectionMenu2_1_C:ExecuteUbergraph_LabDirectionMenu2_1
+[2018.05.29-03.11.31:220][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b0400dd50, Size=48, Default__LabDirectionMenu2_2_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu2_2.LabDirectionMenu2_2_C:ExecuteUbergraph_LabDirectionMenu2_2
+[2018.05.29-03.11.31:399][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1eb07040, Size=3264, Default__FirstPersonCharacter3_C Function /Game/StarterContent/Blueprints/PersonBP/FirstPersonCharacter3.FirstPersonCharacter3_C:ExecuteUbergraph_FirstPersonCharacter3
+[2018.05.29-03.11.31:400][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1e3e7990, Size=16, Default__LabDirectionMenu3_1_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu3_1.LabDirectionMenu3_1_C:ExecuteUbergraph_LabDirectionMenu3_1
+[2018.05.29-03.11.31:402][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b0400ce80, Size=48, Default__LabDirectionMenu3_2_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu3_2.LabDirectionMenu3_2_C:ExecuteUbergraph_LabDirectionMenu3_2
+[2018.05.29-03.11.31:654][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b048ee080, Size=2832
+[2018.05.29-03.11.31:654][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f086080, Size=2832, Default__FirstPersonCharacter1_C Function /Engine/Transient.REINST_FirstPersonCharacter1_C_30:ExecuteUbergraph_FirstPersonCharacter1
+[2018.05.29-03.11.31:658][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b0548c100, Size=3040
+[2018.05.29-03.11.31:658][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f55e080, Size=3040, Default__FirstPersonCharacter2_C Function /Engine/Transient.REINST_FirstPersonCharacter2_C_31:ExecuteUbergraph_FirstPersonCharacter2
+[2018.05.29-03.11.31:663][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1eb07040, Size=3264
+[2018.05.29-03.11.31:663][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b0548c100, Size=3264, Default__FirstPersonCharacter3_C Function /Engine/Transient.REINST_FirstPersonCharacter3_C_32:ExecuteUbergraph_FirstPersonCharacter3
+[2018.05.29-03.11.31:663][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b04cad5a0, Size=16
+[2018.05.29-03.11.31:663][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f149470, Size=16, Default__LabDirectionMenu1_1_C Function /Engine/Transient.REINST_LabDirectionMenu1_1_C_0:ExecuteUbergraph_LabDirectionMenu1_1
+[2018.05.29-03.11.31:664][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b0400ed10, Size=48
+[2018.05.29-03.11.31:664][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f62e500, Size=48, Default__LabDirectionMenu1_2_C Function /Engine/Transient.REINST_LabDirectionMenu1_2_C_1:ExecuteUbergraph_LabDirectionMenu1_2
+[2018.05.29-03.11.31:664][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b058b0800, Size=16
+[2018.05.29-03.11.31:664][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f149520, Size=16, Default__LabDirectionMenu2_1_C Function /Engine/Transient.REINST_LabDirectionMenu2_1_C_2:ExecuteUbergraph_LabDirectionMenu2_1
+[2018.05.29-03.11.31:665][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b0400dd50, Size=48
+[2018.05.29-03.11.31:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f62e560, Size=48, Default__LabDirectionMenu2_2_C Function /Engine/Transient.REINST_LabDirectionMenu2_2_C_3:ExecuteUbergraph_LabDirectionMenu2_2
+[2018.05.29-03.11.31:665][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1e3e7990, Size=16
+[2018.05.29-03.11.31:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f149130, Size=16, Default__LabDirectionMenu3_1_C Function /Engine/Transient.REINST_LabDirectionMenu3_1_C_4:ExecuteUbergraph_LabDirectionMenu3_1
+[2018.05.29-03.11.31:665][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b0400ce80, Size=48
+[2018.05.29-03.11.31:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f62e4d0, Size=48, Default__LabDirectionMenu3_2_C Function /Engine/Transient.REINST_LabDirectionMenu3_2_C_5:ExecuteUbergraph_LabDirectionMenu3_2
+[2018.05.29-03.11.31:666][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b04ca1a80, Size=328
+[2018.05.29-03.11.31:666][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f02df00, Size=328, Default__SelectLab_C Function /Engine/Transient.REINST_SelectLab_C_6:ExecuteUbergraph_SelectLab
+[2018.05.29-03.11.31:667][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b04c9eb60, Size=136
+[2018.05.29-03.11.31:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f00f420, Size=136, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_33:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.11.31:900][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f084100, Size=2832, Default__FirstPersonCharacter1_C Function /Game/StarterContent/Blueprints/PersonBP/FirstPersonCharacter1.FirstPersonCharacter1_C:ExecuteUbergraph_FirstPersonCharacter1
+[2018.05.29-03.11.31:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1f9f50c0, Size=3040, Default__FirstPersonCharacter2_C Function /Game/StarterContent/Blueprints/PersonBP/FirstPersonCharacter2.FirstPersonCharacter2_C:ExecuteUbergraph_FirstPersonCharacter2
+[2018.05.29-03.11.31:959][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b2536a080, Size=3264, Default__FirstPersonCharacter3_C Function /Game/StarterContent/Blueprints/PersonBP/FirstPersonCharacter3.FirstPersonCharacter3_C:ExecuteUbergraph_FirstPersonCharacter3
+[2018.05.29-03.11.31:967][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1fb69160, Size=16, Default__LabDirectionMenu1_1_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu1_1.LabDirectionMenu1_1_C:ExecuteUbergraph_LabDirectionMenu1_1
+[2018.05.29-03.11.31:970][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b252b2920, Size=48, Default__LabDirectionMenu1_2_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu1_2.LabDirectionMenu1_2_C:ExecuteUbergraph_LabDirectionMenu1_2
+[2018.05.29-03.11.31:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1fb69440, Size=16, Default__LabDirectionMenu2_1_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu2_1.LabDirectionMenu2_1_C:ExecuteUbergraph_LabDirectionMenu2_1
+[2018.05.29-03.11.31:974][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b252b0c70, Size=48, Default__LabDirectionMenu2_2_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu2_2.LabDirectionMenu2_2_C:ExecuteUbergraph_LabDirectionMenu2_2
+[2018.05.29-03.11.31:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1fb68a80, Size=16, Default__LabDirectionMenu3_1_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu3_1.LabDirectionMenu3_1_C:ExecuteUbergraph_LabDirectionMenu3_1
+[2018.05.29-03.11.31:978][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b2525af20, Size=48, Default__LabDirectionMenu3_2_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/LabDirectionMenu3_2.LabDirectionMenu3_2_C:ExecuteUbergraph_LabDirectionMenu3_2
+[2018.05.29-03.11.31:982][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b05c99c00, Size=328, Default__SelectLab_C Function /Game/StarterContent/Blueprints/PersonBP/Widget/SelectLab.SelectLab_C:ExecuteUbergraph_SelectLab
+[2018.05.29-03.11.31:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b252028e0, Size=136, Default__ThirdPersonCharacter_C Function /Game/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.11.32:341][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b251e6f68, Size=4, Default__ActorBP_C Function /Game/StarterContent/Blueprints/PersonBP/ActorBP.ActorBP_C:ExecuteUbergraph_ActorBP
+[2018.05.29-03.11.32:353][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b251e6f68, Size=4
+[2018.05.29-03.11.32:354][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b251e6f68, Size=4, Default__ActorBP_C Function /Engine/Transient.REINST_ActorBP_C_72:ExecuteUbergraph_ActorBP
+[2018.05.29-03.11.32:362][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b251e7900, Size=4, Default__ActorBP_C Function /Game/StarterContent/Blueprints/PersonBP/ActorBP.ActorBP_C:ExecuteUbergraph_ActorBP
+[2018.05.29-03.11.32:371][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1fb71f80, Size=264, Default__TriggerBox_C Function /Game/StarterContent/Blueprints/PersonBP/TriggerBox.TriggerBox_C:ExecuteUbergraph_TriggerBox
+[2018.05.29-03.11.32:377][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1fb71f80, Size=264
+[2018.05.29-03.11.32:377][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1fb71f80, Size=264, Default__TriggerBox_C Function /Engine/Transient.REINST_TriggerBox_C_74:ExecuteUbergraph_TriggerBox
+[2018.05.29-03.11.32:381][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1fb71bc0, Size=264, Default__TriggerBox_C Function /Game/StarterContent/Blueprints/PersonBP/TriggerBox.TriggerBox_C:ExecuteUbergraph_TriggerBox
+[2018.05.29-03.11.32:399][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b252e0480, Size=864, Default__VRController_C Function /Game/StarterContent/Blueprints/PersonBP/VRController.VRController_C:ExecuteUbergraph_VRController
+[2018.05.29-03.11.32:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b252e0480, Size=864
+[2018.05.29-03.11.32:414][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1e5d7900, Size=864, Default__VRController_C Function /Engine/Transient.REINST_VRController_C_77:ExecuteUbergraph_VRController
+[2018.05.29-03.11.32:425][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b1e5d6e80, Size=848, Default__VRController_C Function /Game/StarterContent/Blueprints/PersonBP/VRController.VRController_C:ExecuteUbergraph_VRController
+[2018.05.29-03.11.33:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b25fe1b88, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.11.33:616][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b25fe1b88, Size=4
+[2018.05.29-03.11.33:617][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b25fe1b88, Size=4, Default__VR_Lab_C Function /Engine/Transient.REINST_VR_Lab_C_81:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.11.33:620][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b25fe1908, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.11.34:281][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [25.188259ms] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.29-03.11.34:424][  0]LogMeshUtilities: Finished distance field build in 0.1s - 8x26x24 distance field, 180 triangles, Range [0.0, 1.0], DEC_living_picture
+[2018.05.29-03.11.34:596][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12 triangles, Range [-0.5, 0.4], ParticleCube
+[2018.05.29-03.11.38:295][  0]LogMeshUtilities: Finished distance field build in 3.2s - 31x64x64 distance field, 176 triangles, Range [-0.3, 0.9], SM_HemiSphere01
+[2018.05.29-03.11.38:295][  0]LogAIModule: Creating AISystem for world VR_Lab
+[2018.05.29-03.11.38:339][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b040e24d0, Size=72
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b01262460, Size=8
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f00f420, Size=136
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f02df00, Size=328
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f086080, Size=2832
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f149470, Size=16
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f62e500, Size=48
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f55e080, Size=3040
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f149520, Size=16
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f62e560, Size=48
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b0548c100, Size=3264
+[2018.05.29-03.11.38:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f149130, Size=16
+[2018.05.29-03.11.38:372][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1f62e4d0, Size=48
+[2018.05.29-03.11.38:372][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b251e6f68, Size=4
+[2018.05.29-03.11.38:372][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1fb71f80, Size=264
+[2018.05.29-03.11.38:372][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b1e5d7900, Size=864
+[2018.05.29-03.11.38:372][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b25fe1b88, Size=4
+[2018.05.29-03.11.38:377][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.29-03.11.38:619][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 241.426ms to complete.
+[2018.05.29-03.11.38:619][  0]LogFileHelpers: Loading map 'VR_Lab' took 8.077
+[2018.05.29-03.11.38:908][  0]LogCollectionManager: Loaded 0 collections in 0.001323 seconds
+[2018.05.29-03.11.38:988][  0]LogFileCache: Scanning file cache for directory 'E:/VR学习/VR_NewLab/Saved/Collections/' took 0.01s
+[2018.05.29-03.11.38:988][  0]LogFileCache: Scanning file cache for directory 'E:/VR学习/VR_NewLab/Content/Developers/翁小松/Collections/' took 0.01s
+[2018.05.29-03.11.38:988][  0]LogFileCache: Scanning file cache for directory 'E:/VR学习/VR_NewLab/Content/Collections/' took 0.01s
+[2018.05.29-03.11.38:988][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.29-03.11.39:007][  0]LogContentBrowser: Native class hierarchy populated in 0.0180 seconds. Added 2452 classes and 558 folders.
+[2018.05.29-03.11.39:044][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.29-03.11.39:871][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.29-03.11.39:930][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.05.29-03.11.41:704][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.29-03.11.41:773][  0]LogSlate: Took 0.032483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.29-03.11.41:801][  0]LogSlate: Took 0.025416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.29-03.11.41:821][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRNewLab
+[2018.05.29-03.11.41:821][  0]LogTemp: CWD: D:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.29-03.11.41:821][  0]LogTemp: Initial Dir: D:\UE_4.19
+[2018.05.29-03.11.41:821][  0]LogTemp: Env CWD: D:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.29-03.11.41:821][  0]LogTemp: BranchPath = DESKTOP-4C1UK45/D/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-4C1UK45/D/UE_4.19/Engine/Binaries
+[2018.05.29-03.11.41:821][  0]LogSlate: Took 0.011868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.29-03.11.41:969][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\??С??\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.29-03.11.41:969][  0]LogRenderer: Reallocating scene render targets to support 864x484 Format 10 NumSamples 1 (Frame:1).
+[2018.05.29-03.11.42:196][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.29-03.11.42:196][  0]LogLoad: (Engine Initialization) Total time: 85.32 seconds
+[2018.05.29-03.11.42:196][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.29-03.11.42:595][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.29-03.11.42:809][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1004 triangles, Range [-0.0, 0.3], wire0
+[2018.05.29-03.11.42:809][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.29-03.11.43:832][  3]LogMeshUtilities: Finished distance field build in 0.2s - 13x13x41 distance field, 10944 triangles, Range [-0.2, 1.0], Capa
+[2018.05.29-03.11.43:832][  3]LogAssetRegistry: Asset discovery search completed in 40.4397 seconds
+[2018.05.29-03.11.43:836][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.29-03.11.43:836][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2018.05.29-03.11.43:887][  3]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.29-03.11.44:142][  4]LogMeshUtilities: Finished distance field build in 0.2s - 13x13x60 distance field, 7628 triangles, Range [-0.0, 1.0], Resis1
+[2018.05.29-03.11.44:475][  5]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 7628 triangles, Range [-0.0, 0.7], Resis2
+[2018.05.29-03.11.44:798][  6]LogMeshUtilities: Finished distance field build in 0.2s - 13x13x60 distance field, 7628 triangles, Range [-0.0, 1.0], Resis3
+[2018.05.29-03.11.45:133][  7]LogMeshUtilities: Finished distance field build in 0.1s - 21x10x13 distance field, 456 triangles, Range [-0.2, 0.6], equip1
+[2018.05.29-03.11.45:462][  8]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x22 distance field, 588 triangles, Range [-0.0, 0.4], WIN_suitemaster_open_
+[2018.05.29-03.11.45:812][  9]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x22 distance field, 588 triangles, Range [-0.0, 0.5], WIN_suitemaster_open_2
+[2018.05.29-03.11.46:132][ 10]LogMeshUtilities: Finished distance field build in 0.1s - 8x17x22 distance field, 768 triangles, Range [0.0, 0.4], WIN_suitemaster
+[2018.05.29-03.11.46:467][ 11]LogMeshUtilities: Finished distance field build in 0.1s - 9x11x30 distance field, 512 triangles, Range [0.0, 0.6], WIN_masterbedroom_
+[2018.05.29-03.11.46:799][ 12]LogMeshUtilities: Finished distance field build in 0.1s - 9x11x30 distance field, 512 triangles, Range [0.0, 1.0], WIN_masterbedroom_3
+[2018.05.29-03.11.47:137][ 13]LogMeshUtilities: Finished distance field build in 0.0s - 13x8x30 distance field, 512 triangles, Range [0.0, 0.8], WIN_masterbedroom_2
+[2018.05.29-03.11.47:468][ 14]LogMeshUtilities: Finished distance field build in 0.1s - 18x8x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_
+[2018.05.29-03.11.47:800][ 15]LogMeshUtilities: Finished distance field build in 0.1s - 8x18x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_8
+[2018.05.29-03.11.48:134][ 16]LogMeshUtilities: Finished distance field build in 0.1s - 8x18x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_7
+[2018.05.29-03.11.48:463][ 17]LogMeshUtilities: Finished distance field build in 0.1s - 8x18x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_6
+[2018.05.29-03.11.48:795][ 18]LogMeshUtilities: Finished distance field build in 0.1s - 8x18x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_5
+[2018.05.29-03.11.49:134][ 19]LogMeshUtilities: Finished distance field build in 0.1s - 8x18x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_4
+[2018.05.29-03.11.49:135][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.11.49:324][ 25]LogMeshUtilities: Finished distance field build in 0.1s - 18x8x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_3
+[2018.05.29-03.11.49:551][ 29]LogMeshUtilities: Finished distance field build in 0.1s - 18x8x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_living_2
+[2018.05.29-03.11.52:343][ 79]LogMeshUtilities: Finished distance field build in 2.7s - 64x64x20 distance field, 2928 triangles, Range [-0.1, 0.6], WIN_kitchen_skylight_structure
+[2018.05.29-03.11.53:114][ 86]LogMeshUtilities: Finished distance field build in 0.5s - 64x64x15 distance field, 96 triangles, Range [1.0, 1.0], WIN_kitchen_skylight
+[2018.05.29-03.11.53:395][ 89]LogMeshUtilities: Finished distance field build in 0.1s - 8x13x30 distance field, 512 triangles, Range [0.0, 1.0], WIN_dining_room_4
+[2018.05.29-03.11.53:732][ 93]LogMeshUtilities: Finished distance field build in 0.1s - 9x11x30 distance field, 512 triangles, Range [0.0, 1.0], WIN_dining_room_3
+[2018.05.29-03.11.54:106][ 96]LogMeshUtilities: Finished distance field build in 0.1s - 9x11x30 distance field, 512 triangles, Range [0.0, 0.6], WIN_dining_room_2
+[2018.05.29-03.11.54:390][ 99]LogMeshUtilities: Finished distance field build in 0.1s - 13x8x30 distance field, 512 triangles, Range [0.0, 0.8], WIN_dining_room_1
+[2018.05.29-03.11.54:707][103]LogMeshUtilities: Finished distance field build in 0.1s - 20x8x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_bedroom_2
+[2018.05.29-03.11.55:099][107]LogMeshUtilities: Finished distance field build in 0.1s - 20x8x30 distance field, 256 triangles, Range [0.0, 1.0], WIN_bedroom
+[2018.05.29-03.11.55:457][110]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x22 distance field, 588 triangles, Range [-0.0, 0.5], WIN_bathroom_open_2
+[2018.05.29-03.11.55:750][113]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x22 distance field, 588 triangles, Range [-0.0, 0.5], WIN_bathroom_open
+[2018.05.29-03.11.56:062][116]LogMeshUtilities: Finished distance field build in 0.1s - 8x17x22 distance field, 768 triangles, Range [0.0, 0.4], WIN_bathroom
+[2018.05.29-03.12.00:119][158]LogMeshUtilities: Finished distance field build in 3.8s - 38x43x57 distance field, 6103 triangles, Range [-0.0, 1.0], Tree_Birch_Small_Tree_Birch_Small_LOD0
+[2018.05.29-03.12.06:875][291]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x64 distance field, 1546 triangles, Range [-0.0, 1.0], Terrain
+[2018.05.29-03.12.10:102][361]LogMeshUtilities: Finished distance field build in 3.1s - 64x47x33 distance field, 546 triangles, Range [-0.3, 0.8], SM_Plains_SmallRock01
+[2018.05.29-03.12.18:028][536]LogMeshUtilities: Finished distance field build in 7.8s - 64x64x64 distance field, 358 triangles, Range [-0.4, 1.0], SM_Plains_LargeRock_SpireLOD2
+[2018.05.29-03.12.18:904][556]LogMeshUtilities: Finished distance field build in 0.7s - 54x60x9 distance field, 320 triangles, Range [-0.1, 1.0], SM_Plains_GroundBrick01
+[2018.05.29-03.12.21:370][610]LogMeshUtilities: Finished distance field build in 2.3s - 63x64x17 distance field, 456 triangles, Range [-0.1, 0.8], SM_Plains_Grass01
+[2018.05.29-03.12.24:141][671]LogMeshUtilities: Finished distance field build in 2.6s - 64x64x21 distance field, 1812 triangles, Range [-0.2, 1.0], SM_Env_Plains_Mountain_01
+[2018.05.29-03.12.24:373][675]LogMeshUtilities: Finished distance field build in 0.1s - 22x8x18 distance field, 156 triangles, Range [0.0, 0.6], Picture02
+[2018.05.29-03.12.24:510][679]LogMeshUtilities: Discarded distance field for NAT_PlantPlane as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.12.24:510][679]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x14 distance field, 200 triangles, Range [-0.2, 0.6], NAT_PlantPlane
+[2018.05.29-03.12.29:644][790]LogMeshUtilities: Finished distance field build in 5.0s - 48x51x48 distance field, 20706 triangles, Range [-0.0, 1.0], MapleShrub_Med3
+[2018.05.29-03.12.29:808][794]LogMeshUtilities: Finished distance field build in 0.0s - 8x16x21 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows20
+[2018.05.29-03.12.29:982][798]LogMeshUtilities: Finished distance field build in 0.0s - 8x16x21 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows19
+[2018.05.29-03.12.30:174][802]LogMeshUtilities: Finished distance field build in 0.0s - 19x8x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows18
+[2018.05.29-03.12.30:352][806]LogMeshUtilities: Finished distance field build in 0.0s - 19x8x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows17
+[2018.05.29-03.12.30:527][810]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows16
+[2018.05.29-03.12.30:719][814]LogMeshUtilities: Finished distance field build in 0.0s - 13x8x36 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows15
+[2018.05.29-03.12.30:888][818]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows14
+[2018.05.29-03.12.31:070][822]LogMeshUtilities: Finished distance field build in 0.0s - 12x8x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows13
+[2018.05.29-03.12.31:253][826]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows11
+[2018.05.29-03.12.31:433][830]LogMeshUtilities: Finished distance field build in 0.0s - 12x8x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows10
+[2018.05.29-03.12.31:627][834]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows09
+[2018.05.29-03.12.31:804][838]LogMeshUtilities: Finished distance field build in 0.0s - 8x12x29 distance field, 216 triangles, Range [1.0, 1.0], GLASS_Windows08
+[2018.05.29-03.12.31:999][842]LogMeshUtilities: Finished distance field build in 0.0s - 8x17x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows07
+[2018.05.29-03.12.32:175][846]LogMeshUtilities: Finished distance field build in 0.0s - 8x17x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows06
+[2018.05.29-03.12.32:355][850]LogMeshUtilities: Finished distance field build in 0.0s - 8x17x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows05
+[2018.05.29-03.12.32:541][854]LogMeshUtilities: Finished distance field build in 0.0s - 8x17x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows04
+[2018.05.29-03.12.32:725][858]LogMeshUtilities: Finished distance field build in 0.0s - 8x17x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows03
+[2018.05.29-03.12.32:894][862]LogMeshUtilities: Finished distance field build in 0.0s - 17x8x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows02
+[2018.05.29-03.12.33:083][866]LogMeshUtilities: Finished distance field build in 0.0s - 13x8x36 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows021
+[2018.05.29-03.12.33:264][870]LogMeshUtilities: Finished distance field build in 0.0s - 17x8x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows01
+[2018.05.29-03.12.33:446][874]LogMeshUtilities: Finished distance field build in 0.0s - 17x8x29 distance field, 108 triangles, Range [1.0, 1.0], GLASS_Windows00
+[2018.05.29-03.12.33:650][878]LogMeshUtilities: Finished distance field build in 0.0s - 8x24x11 distance field, 1500 triangles, Range [0.0, 0.7], FUR_table_desk_1
+[2018.05.29-03.12.33:831][882]LogMeshUtilities: Finished distance field build in 0.0s - 18x8x11 distance field, 1500 triangles, Range [0.0, 0.6], FUR_table_desk_2
+[2018.05.29-03.12.34:440][896]LogMeshUtilities: Finished distance field build in 0.5s - 49x9x40 distance field, 1298 triangles, Range [-0.0, 0.5], FUR_living_shelves
+[2018.05.29-03.12.35:740][924]LogMeshUtilities: Finished distance field build in 1.1s - 46x48x15 distance field, 75654 triangles, Range [-0.1, 1.0], FUR_living_couch
+[2018.05.29-03.12.35:923][928]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 58163 triangles, Range [0.0, 0.6], FUR_kitchen_tolix_stool_003
+[2018.05.29-03.12.36:237][935]LogMeshUtilities: Finished distance field build in 0.2s - 16x36x12 distance field, 1638 triangles, Range [-0.0, 0.5], FUR_dining_table_structure
+[2018.05.29-03.12.36:414][939]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 20810 triangles, Range [-0.0, 0.6], FUR_dining_chair_4
+[2018.05.29-03.12.36:598][943]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 20810 triangles, Range [-0.0, 0.6], FUR_dining_chair_007
+[2018.05.29-03.12.36:777][947]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 20810 triangles, Range [-0.0, 0.6], FUR_dining_chair_006
+[2018.05.29-03.12.36:967][951]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 20810 triangles, Range [-0.0, 0.6], FUR_dining_chair_005
+[2018.05.29-03.12.37:153][955]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x12 distance field, 33944 triangles, Range [-0.0, 1.0], FUR_chair
+[2018.05.29-03.12.38:145][977]LogMeshUtilities: Finished distance field build in 0.8s - 57x64x9 distance field, 4 triangles, Range [-0.1, 1.0], FLOOR_wood_white_suitemaster
+[2018.05.29-03.12.40:153][ 21]LogMeshUtilities: Finished distance field build in 1.9s - 64x64x22 distance field, 49 triangles, Range [-0.0, 1.0], FLOOR_wood_white_living
+[2018.05.29-03.12.41:728][ 56]LogMeshUtilities: Finished distance field build in 1.4s - 64x64x16 distance field, 10 triangles, Range [-0.0, 1.0], FLOOR_wood_white_kitchen
+[2018.05.29-03.12.42:646][ 76]LogMeshUtilities: Finished distance field build in 0.8s - 32x64x15 distance field, 2 triangles, Range [-0.0, 1.0], FLOOR_wood_white_corridor_2
+[2018.05.29-03.12.43:650][ 98]LogMeshUtilities: Finished distance field build in 0.8s - 64x48x9 distance field, 4 triangles, Range [-0.1, 1.0], FLOOR_wood_white_bedroom
+[2018.05.29-03.12.44:814][123]LogMeshUtilities: Finished distance field build in 1.0s - 64x61x10 distance field, 2 triangles, Range [-0.0, 1.0], FLOOR_wood_white_balcony
+[2018.05.29-03.12.46:853][168]LogMeshUtilities: Finished distance field build in 1.9s - 64x46x29 distance field, 4 triangles, Range [-0.0, 1.0], FLOOR_wood
+[2018.05.29-03.12.47:091][173]LogMeshUtilities: Finished distance field build in 0.1s - 15x28x8 distance field, 26 triangles, Range [-0.1, 0.8], FLOOR_concrete
+[2018.05.29-03.12.47:651][185]LogMeshUtilities: Finished distance field build in 0.4s - 64x28x9 distance field, 4 triangles, Range [-0.1, 1.0], FLOOR_ceramic
+[2018.05.29-03.12.52:543][292]LogMeshUtilities: Finished distance field build in 4.8s - 64x64x64 distance field, 68 triangles, Range [-0.0, 1.0], EXT_Wall
+[2018.05.29-03.12.58:053][381]LogMeshUtilities: Finished distance field build in 5.1s - 64x64x64 distance field, 68 triangles, Range [-0.0, 1.0], EXT_Wall3
+[2018.05.29-03.13.04:058][399]LogMeshUtilities: Finished distance field build in 5.8s - 64x64x64 distance field, 68 triangles, Range [-0.0, 1.0], EXT_Wall2
+[2018.05.29-03.13.08:392][412]LogMeshUtilities: Finished distance field build in 4.0s - 64x64x64 distance field, 68 triangles, Range [-0.0, 1.0], EXT_Wall1
+[2018.05.29-03.13.10:068][417]LogMeshUtilities: Finished distance field build in 1.5s - 64x64x64 distance field, 64 triangles, Range [1.0, 1.0], EXT_Background
+[2018.05.29-03.13.10:398][418]LogMeshUtilities: Finished distance field build in 0.1s - 14x8x37 distance field, 632 triangles, Range [0.0, 0.6], DOOR_suitemaster_slide_2
+[2018.05.29-03.13.10:730][419]LogMeshUtilities: Finished distance field build in 0.1s - 14x8x37 distance field, 256 triangles, Range [0.0, 0.7], DOOR_suitemaster_slide
+[2018.05.29-03.13.11:067][420]LogMeshUtilities: Finished distance field build in 0.1s - 13x13x35 distance field, 2702 triangles, Range [-0.0, 0.6], DOOR_masterbedroom_corridor
+[2018.05.29-03.13.11:399][421]LogMeshUtilities: Finished distance field build in 0.1s - 13x13x35 distance field, 2894 triangles, Range [-0.0, 0.6], DOOR_masterbedroom
+[2018.05.29-03.13.11:730][422]LogMeshUtilities: Finished distance field build in 0.2s - 25x8x42 distance field, 1260 triangles, Range [-0.0, 0.4], DOOR_entrance
+[2018.05.29-03.13.12:067][423]LogMeshUtilities: Discarded distance field for DEC_vase01 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.13.12:067][423]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x22 distance field, 14383 triangles, Range [-0.2, 0.6], DEC_vase01
+[2018.05.29-03.13.12:398][424]LogMeshUtilities: Finished distance field build in 0.1s - 8x9x21 distance field, 13220 triangles, Range [-0.1, 0.7], DEC_strelitzia_plant
+[2018.05.29-03.13.12:729][425]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 28364 triangles, Range [-0.0, 1.0], DEC_pencil
+[2018.05.29-03.13.13:069][426]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 5544 triangles, Range [-0.0, 0.8], DEC_living_shelves_fish_
+[2018.05.29-03.13.13:398][427]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 64 triangles, Range [-0.0, 0.8], DEC_living_shelf_sculpture
+[2018.05.29-03.13.13:730][428]LogMeshUtilities: Finished distance field build in 0.0s - 8x10x14 distance field, 170 triangles, Range [-0.1, 0.5], DEC_living_picture05
+[2018.05.29-03.13.14:067][429]LogMeshUtilities: Finished distance field build in 0.1s - 22x8x20 distance field, 180 triangles, Range [0.0, 0.5], DEC_living_picture013
+[2018.05.29-03.13.14:400][430]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 170 triangles, Range [-0.0, 0.3], DEC_living_picture010
+[2018.05.29-03.13.15:063][432]LogMeshUtilities: Finished distance field build in 0.6s - 55x50x8 distance field, 5252 triangles, Range [-0.1, 1.0], DEC_living_carpet_dining
+[2018.05.29-03.13.15:396][433]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x9 distance field, 6958 triangles, Range [-0.0, 0.7], DEC_large_leaf
+[2018.05.29-03.13.15:730][434]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 3718 triangles, Range [-0.2, 0.5], DEC_kitchen_spot_2
+[2018.05.29-03.13.16:063][435]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 3718 triangles, Range [-0.2, 0.5], DEC_kitchen_spot_3
+[2018.05.29-03.13.16:399][436]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x17 distance field, 24192 triangles, Range [-0.0, 0.5], DEC_kitchen_pendant_structure001
+[2018.05.29-03.13.16:730][437]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x21 distance field, 4944 triangles, Range [0.0, 1.0], DEC_glass_pendant_lamp
+[2018.05.29-03.13.17:066][438]LogMeshUtilities: Discarded distance field for DEC_frame as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.13.17:066][438]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 2966 triangles, Range [-0.3, 0.9], DEC_frame
+[2018.05.29-03.13.17:398][439]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 7810 triangles, Range [-0.2, 1.0], DEC_fabric
+[2018.05.29-03.13.17:730][440]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x18 distance field, 20352 triangles, Range [-0.0, 1.0], DEC_desk_lamp_1
+[2018.05.29-03.13.18:068][441]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x17 distance field, 47680 triangles, Range [-0.2, 1.0], DEC_desk_lamp_2
+[2018.05.29-03.13.18:398][442]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 11192 triangles, Range [-0.1, 0.8], DEC_cup_pencil001
+[2018.05.29-03.13.18:730][443]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 766 triangles, Range [-0.0, 0.4], DEC_Books_30
+[2018.05.29-03.13.19:066][444]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 8726 triangles, Range [-0.0, 0.5], DEC_Books_29
+[2018.05.29-03.13.19:400][445]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1532 triangles, Range [-0.1, 0.3], DEC_Books_28
+[2018.05.29-03.13.19:730][446]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 8576 triangles, Range [-0.0, 0.5], DEC_Books_27
+[2018.05.29-03.13.20:067][447]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 160 triangles, Range [-0.0, 0.4], DEC_Books_16
+[2018.05.29-03.13.20:398][448]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 2528 triangles, Range [-0.1, 0.5], DEC_Books_15
+[2018.05.29-03.13.20:730][449]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1532 triangles, Range [-0.0, 0.4], DEC_Books_14
+[2018.05.29-03.13.21:067][450]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 80 triangles, Range [-0.1, 0.3], DEC_Books_13
+[2018.05.29-03.13.21:398][451]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 160 triangles, Range [-0.0, 0.4], DEC_Books_07
+[2018.05.29-03.13.21:730][452]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 5276 triangles, Range [-0.0, 0.9], DEC_Books_04
+[2018.05.29-03.13.22:068][453]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1026 triangles, Range [-0.1, 0.3], DEC_Books_031
+[2018.05.29-03.13.22:398][454]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1026 triangles, Range [-0.1, 0.8], DEC_Books_01
+[2018.05.29-03.13.22:730][455]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 766 triangles, Range [-0.0, 0.5], DEC_Books_011
+[2018.05.29-03.13.23:070][456]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 846 triangles, Range [-0.1, 0.6], DEC_Books_00
+[2018.05.29-03.13.23:399][457]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 3670 triangles, Range [-0.0, 0.5], DEC_bedroom_open_book00
+[2018.05.29-03.13.23:730][458]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 31926 triangles, Range [-0.0, 0.3], DEC_bedroom_notebook00
+[2018.05.29-03.13.24:066][459]LogMeshUtilities: Finished distance field build in 0.1s - 11x12x45 distance field, 15146 triangles, Range [-0.1, 1.0], CUR_living_20
+[2018.05.29-03.13.24:398][460]LogMeshUtilities: Finished distance field build in 0.2s - 17x8x45 distance field, 15153 triangles, Range [-0.1, 0.5], CUR_living_19
+[2018.05.29-03.13.24:731][461]LogMeshUtilities: Finished distance field build in 0.2s - 17x8x45 distance field, 15153 triangles, Range [-0.1, 0.5], CUR_living_18
+[2018.05.29-03.13.25:067][462]LogMeshUtilities: Finished distance field build in 0.2s - 11x12x45 distance field, 15153 triangles, Range [-0.1, 1.0], CUR_living_17
+[2018.05.29-03.13.25:396][463]LogMeshUtilities: Finished distance field build in 0.2s - 23x8x45 distance field, 15153 triangles, Range [-0.1, 0.5], CUR_living_12
+[2018.05.29-03.13.26:066][465]LogMeshUtilities: Finished distance field build in 0.3s - 8x33x45 distance field, 15153 triangles, Range [-0.1, 0.6], CUR_living_11
+[2018.05.29-03.13.26:395][466]LogMeshUtilities: Finished distance field build in 0.2s - 22x8x45 distance field, 15153 triangles, Range [-0.1, 0.5], CUR_living_10
+[2018.05.29-03.13.26:728][467]LogMeshUtilities: Finished distance field build in 0.2s - 22x8x45 distance field, 15153 triangles, Range [-0.1, 0.5], CUR_living_6
+[2018.05.29-03.13.27:396][469]LogMeshUtilities: Finished distance field build in 0.3s - 8x32x46 distance field, 15153 triangles, Range [-0.1, 0.7], CUR_living_2
+[2018.05.29-03.13.27:728][470]LogMeshUtilities: Finished distance field build in 0.1s - 9x10x45 distance field, 15153 triangles, Range [-0.1, 1.0], CUR_living_19-2
+[2018.05.29-03.13.28:064][471]LogMeshUtilities: Finished distance field build in 0.2s - 23x8x45 distance field, 15153 triangles, Range [-0.1, 0.5], CUR_CUR_living_13
+[2018.05.29-03.13.28:400][472]LogMeshUtilities: Discarded distance field for CEI_living_detail as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.13.28:400][472]LogMeshUtilities: Finished distance field build in 0.0s - 11x11x8 distance field, 2242 triangles, Range [-0.2, 0.7], CEI_living_detail
+[2018.05.29-03.13.30:396][478]LogMeshUtilities: Finished distance field build in 1.9s - 64x64x23 distance field, 4740 triangles, Range [-0.0, 1.0], CEI_house_Living002
+[2018.05.29-03.13.32:730][485]LogMeshUtilities: Finished distance field build in 2.0s - 64x64x27 distance field, 932 triangles, Range [-0.0, 1.0], CEI_house_Living001
+[2018.05.29-03.13.33:730][488]LogMeshUtilities: Finished distance field build in 0.6s - 64x48x10 distance field, 1294 triangles, Range [-0.1, 0.5], CEI_house_bedroom_2
+[2018.05.29-03.13.34:730][491]LogMeshUtilities: Finished distance field build in 0.6s - 63x42x9 distance field, 1532 triangles, Range [-0.0, 0.5], CEI_house_bedroom_003
+[2018.05.29-03.13.35:730][494]LogMeshUtilities: Finished distance field build in 0.7s - 57x64x10 distance field, 98 triangles, Range [-0.0, 0.6], CEI_house_Bedroom002
+[2018.05.29-03.13.36:731][497]LogMeshUtilities: Finished distance field build in 0.9s - 57x64x11 distance field, 1648 triangles, Range [-0.0, 0.7], CEI_house_Bedroom001
+[2018.05.29-03.13.37:396][499]LogMeshUtilities: Finished distance field build in 0.6s - 64x34x10 distance field, 2142 triangles, Range [-0.0, 0.5], CEI_house_Bathroom
+[2018.05.29-03.13.38:067][501]LogMeshUtilities: Finished distance field build in 0.4s - 64x29x10 distance field, 2132 triangles, Range [-0.0, 0.4], CEI_house_Bathroom001
+[2018.05.29-03.13.39:068][504]LogMeshUtilities: Finished distance field build in 0.6s - 64x38x12 distance field, 1052 triangles, Range [-0.0, 0.4], CEI_house
+[2018.05.29-03.13.42:732][515]LogMeshUtilities: Finished distance field build in 3.3s - 64x64x47 distance field, 84 triangles, Range [-0.0, 1.0], Big_Floor
+[2018.05.29-03.13.46:069][525]LogMeshUtilities: Finished distance field build in 3.1s - 64x64x44 distance field, 68 triangles, Range [0.0, 1.0], Big_Ceiling
+[2018.05.29-03.13.48:069][531]LogMeshUtilities: Finished distance field build in 1.8s - 56x64x21 distance field, 1940 triangles, Range [-0.2, 0.5], barier_9
+[2018.05.29-03.13.48:733][533]LogMeshUtilities: Finished distance field build in 0.4s - 10x38x51 distance field, 96 triangles, Range [-0.0, 0.5], ARC_suitemaster_east
+[2018.05.29-03.13.49:065][534]LogMeshUtilities: Finished distance field build in 0.2s - 64x10x21 distance field, 960 triangles, Range [0.0, 0.7], ARC_porch_fence
+[2018.05.29-03.13.50:070][537]LogMeshUtilities: Finished distance field build in 0.7s - 11x61x51 distance field, 60 triangles, Range [-0.1, 0.5], ARC_masterbedroom_west_
+[2018.05.29-03.13.51:070][540]LogMeshUtilities: Finished distance field build in 0.9s - 64x15x51 distance field, 52 triangles, Range [-0.0, 0.5], ARC_masterbedroom_south
+[2018.05.29-03.13.52:071][543]LogMeshUtilities: Finished distance field build in 0.7s - 20x23x64 distance field, 104 triangles, Range [-0.1, 0.5], ARC_masterbedroom_northwest
+[2018.05.29-03.13.52:734][545]LogMeshUtilities: Finished distance field build in 0.5s - 18x22x51 distance field, 144 triangles, Range [-0.1, 0.6], ARC_masterbedroom_northeast
+[2018.05.29-03.13.53:403][547]LogMeshUtilities: Finished distance field build in 0.5s - 38x11x51 distance field, 96 triangles, Range [-0.1, 0.5], ARC_masterbedroom_north
+[2018.05.29-03.13.54:402][550]LogMeshUtilities: Finished distance field build in 0.6s - 11x58x51 distance field, 108 triangles, Range [-0.1, 0.5], ARC_masterbedroom_east
+[2018.05.29-03.13.56:071][555]LogMeshUtilities: Finished distance field build in 1.5s - 24x64x54 distance field, 32 triangles, Range [-0.0, 0.4], ARC_living_west
+[2018.05.29-03.13.59:072][564]LogMeshUtilities: Finished distance field build in 2.6s - 64x37x64 distance field, 132 triangles, Range [-0.0, 0.5], ARC_living_south
+[2018.05.29-03.14.00:070][567]LogMeshUtilities: Finished distance field build in 0.9s - 64x14x51 distance field, 96 triangles, Range [-0.0, 0.5], ARC_living_north
+[2018.05.29-03.14.01:405][571]LogMeshUtilities: Finished distance field build in 1.0s - 64x37x25 distance field, 24 triangles, Range [-0.0, 1.0], ARC_FloorExterior
+[2018.05.29-03.14.02:421][574]LogMeshUtilities: Finished distance field build in 0.7s - 20x23x64 distance field, 152 triangles, Range [-0.1, 0.5], ARC_dining_northeast
+[2018.05.29-03.14.03:074][576]LogMeshUtilities: Finished distance field build in 0.5s - 38x11x51 distance field, 96 triangles, Range [-0.1, 0.5], ARC_dining_north
+[2018.05.29-03.14.04:080][579]LogMeshUtilities: Finished distance field build in 0.6s - 18x22x51 distance field, 96 triangles, Range [-0.1, 0.6], ARC_dining_norhwest
+[2018.05.29-03.14.05:091][583]LogMeshUtilities: Finished distance field build in 0.9s - 64x13x50 distance field, 96 triangles, Range [-0.0, 0.5], ARC_bedroom_south
+[2018.05.29-03.14.06:420][586]LogMeshUtilities: Finished distance field build in 0.8s - 10x55x51 distance field, 108 triangles, Range [-0.0, 0.5], ARC_bedroom_east
+[2018.05.29-03.14.07:090][588]LogMeshUtilities: Finished distance field build in 0.4s - 10x31x51 distance field, 96 triangles, Range [-0.0, 0.4], ARC_bathroom_east
+[2018.05.29-03.14.07:422][589]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 48 triangles, Range [-0.7, 1.0], Shape_Cube
+[2018.05.29-03.14.08:089][591]LogMeshUtilities: Finished distance field build in 0.5s - 8x60x60 distance field, 162 triangles, Range [-0.1, 1.0], SM_Grid07
+[2018.05.29-03.14.10:089][597]LogMeshUtilities: Finished distance field build in 1.9s - 26x64x60 distance field, 48 triangles, Range [-0.1, 0.6], SM_CurveLine07
+[2018.05.29-03.14.12:096][603]LogMeshUtilities: Finished distance field build in 1.8s - 43x64x38 distance field, 72 triangles, Range [-0.0, 0.7], SM_CurveLine01
+[2018.05.29-03.14.15:426][613]LogMeshUtilities: Finished distance field build in 3.1s - 43x60x64 distance field, 144 triangles, Range [-0.0, 0.8], SM_CurveLine02
+[2018.05.29-03.14.23:116][636]LogMeshUtilities: Finished distance field build in 7.6s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], SM_SkySphere
+[2018.05.29-03.14.23:452][637]LogMeshUtilities: Finished distance field build in 0.1s - 15x18x8 distance field, 765 triangles, Range [-0.1, 0.9], SM_FieldGrass_01_SM_FieldGrass_01_LOD0
+[2018.05.29-03.14.23:784][638]LogMeshUtilities: Finished distance field build in 0.2s - 24x22x8 distance field, 376 triangles, Range [-0.1, 0.9], SM_Heather_Mesh_Clumps2_SM_Heather_Mesh_Clumps2_LOD0
+[2018.05.29-03.14.24:452][640]LogMeshUtilities: Finished distance field build in 0.4s - 13x64x20 distance field, 9542 triangles, Range [-0.0, 0.4], 3DFond
+[2018.05.29-03.14.24:782][641]LogMeshUtilities: Discarded distance field for Plane as mesh was not closed!  Assign a two-sided material to fix.
+[2018.05.29-03.14.24:783][641]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x8 distance field, 2 triangles, Range [-0.2, 1.0], Plane
+[2018.05.29-03.14.25:449][643]LogMeshUtilities: Finished distance field build in 0.6s - 30x30x29 distance field, 284 triangles, Range [-0.4, 1.0], Cone
+[2018.05.29-03.14.26:449][646]LogMeshUtilities: Finished distance field build in 0.7s - 30x30x30 distance field, 512 triangles, Range [-0.6, 0.8], Cylinder
+[2018.05.29-03.14.27:452][649]LogMeshUtilities: Finished distance field build in 0.7s - 30x30x30 distance field, 960 triangles, Range [-0.6, 1.0], Sphere
+[2018.05.29-03.14.39:477][685]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.05.29-03.14.44:481][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FLOOR_wood_white_living)
+[2018.05.29-03.14.52:605][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.14.52:678][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.29-03.14.52:935][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.14.52:981][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.29-03.14.53:093][ 84]PIE: New page: PIE session: VR_Lab (May 29, 2018, 7:14:53 PM)
+[2018.05.29-03.14.53:120][ 84]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_VR_Lab
+[2018.05.29-03.14.53:341][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.220598s)
+[2018.05.29-03.14.53:342][ 84]LogAIModule: Creating AISystem for world VR_Lab
+[2018.05.29-03.14.53:343][ 84]LogPlayLevel: PIE: World Init took: (0.002161s)
+[2018.05.29-03.14.53:343][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/VR_Lab.VR_Lab to /Game/StarterContent/Maps/UEDPIE_0_VR_Lab.VR_Lab (0.223669s)
+[2018.05.29-03.14.53:433][ 84]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.29-03.14.53:449][ 84]LogInit: FAudioDevice initialized.
+[2018.05.29-03.14.53:591][ 84]LogLoad: Game class is 'VRMode_C'
+[2018.05.29-03.14.53:817][ 84]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_VR_Lab.VR_Lab up for play (max tick rate 60) at 2018.05.29-11.14.53
+[2018.05.29-03.14.53:939][ 84]LogWorld: Bringing up level for play took: 0.171135
+[2018.05.29-03.14.54:209][ 84]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.05.29-03.14.54:253][ 84]LogBlueprintUserMessages: [ActorBP_202] Tab键: 说明菜单
+[2018.05.29-03.14.54:390][ 84]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_VR_Lab 2.468
+[2018.05.29-03.14.54:391][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.14.54:934][ 84]LogSlate: Took 0.261107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.05.29-03.15.32:440][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.15.36:754][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.15.36:860][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.15.42:429][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ARC_masterbedroom_west_)
+[2018.05.29-03.15.46:006][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.15.47:859][170]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 960 triangles, Range [-0.2, 1.0], Sphere_inversenormals
+[2018.05.29-03.15.48:915][170]LogRenderer: Reallocating scene render targets to support 1024x784 Format 10 NumSamples 1 (Frame:1).
+[2018.05.29-03.15.48:915][170]LogStaticMesh: Allocated 512x320x64 distance field atlas = 20.0Mb, with 216 objects containing 12.2Mb backing data
+[2018.05.29-03.15.52:560][270]LogMeshUtilities: Finished distance field build in 3.7s - 64x64x30 distance field, 10 triangles, Range [-0.1, 0.5], Floor_Mesh
+[2018.05.29-03.16.00:309][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-03.16.03:965][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.16.15:148][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-03.18.28:151][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.18.48:914][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.19.14:825][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-03.19.18:431][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-03.19.37:328][361]LogEditorTransaction: Undo Translate Collision
+[2018.05.29-03.19.38:920][409]LogEditorTransaction: Undo Translate Collision
+[2018.05.29-03.19.45:890][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.19.46:329][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-03.19.46:436][651]LogSavePackage: Save=41.03ms
+[2018.05.29-03.19.46:436][651]LogSavePackage: Moving 'E:/VR学习/VR_NewLab/Saved/ARC_masterbedroom_west_6C5260214D7B80F5B0F58FA0D3E5545D.tmp' to 'E:/VR学习/VR_NewLab/Content/StarterContent/Architecture/Wall/StaticMesh/ARC_masterbedroom_west_.uasset'
+[2018.05.29-03.19.46:440][651]LogSavePackage: Display: Finished SavePackage E:/VR学习/VR_NewLab/Content/StarterContent/Architecture/Wall/StaticMesh/ARC_masterbedroom_west_.uasset
+[2018.05.29-03.19.53:049][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.20.46:439][822]LogSavePackage: Save=14.07ms
+[2018.05.29-03.20.46:439][822]LogSavePackage: Moving 'E:/VR学习/VR_NewLab/Saved/ARC_masterbedroom_west_75D77ED54705F885010B1886980B699F.tmp' to 'E:/VR学习/VR_NewLab/Content/StarterContent/Architecture/Wall/StaticMesh/ARC_masterbedroom_west_.uasset'
+[2018.05.29-03.20.46:442][822]LogSavePackage: Display: Finished SavePackage E:/VR学习/VR_NewLab/Content/StarterContent/Architecture/Wall/StaticMesh/ARC_masterbedroom_west_.uasset
+[2018.05.29-03.29.27:370][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.29.34:417][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.34:417][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:417][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Blueprints/Blueprint_Effect_Fire
+[2018.05.29-03.29.34:418][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.34:418][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:418][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke
+[2018.05.29-03.29.34:418][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.34:418][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:419][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Blueprints/Blueprint_Effect_Sparks
+[2018.05.29-03.29.34:419][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.34:419][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:419][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Blueprints/Blueprint_Effect_Steam
+[2018.05.29-03.29.34:553][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.34:554][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:554][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.34:555][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:555][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.34:555][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.34:556][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.34:556][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:869][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.38:869][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:870][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Architecture/Floor_400x400
+[2018.05.29-03.29.38:870][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_400x200'
+[2018.05.29-03.29.38:871][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_400x200' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:871][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Architecture/Wall_400x200
+[2018.05.29-03.29.38:872][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Door_400x300'
+[2018.05.29-03.29.38:872][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Door_400x300' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:872][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Architecture/Wall_Door_400x300
+[2018.05.29-03.29.38:873][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Window_400x300'
+[2018.05.29-03.29.38:873][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Window_400x300' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:874][524]LoadErrors: Error: /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Architecture/Wall_Window_400x300
+[2018.05.29-03.29.38:931][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.38:931][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:932][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.38:933][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:934][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.38:934][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.38:935][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.38:941][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:742][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:742][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:743][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:744][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:744][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:745][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:745][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:746][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:750][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.39:751][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:751][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_400x200'
+[2018.05.29-03.29.39:752][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_400x200' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:753][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Door_400x300'
+[2018.05.29-03.29.39:753][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Door_400x300' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:754][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Window_400x300'
+[2018.05.29-03.29.39:754][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Window_400x300' while loading E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap.
+[2018.05.29-03.29.39:781][524]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf83d30, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.05.29-03.29.39:781][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:782][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading NULL.
+[2018.05.29-03.29.39:782][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:784][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading NULL.
+[2018.05.29-03.29.39:785][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:785][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading NULL.
+[2018.05.29-03.29.39:785][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:785][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading NULL.
+[2018.05.29-03.29.39:786][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:786][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading NULL.
+[2018.05.29-03.29.39:786][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:787][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading NULL.
+[2018.05.29-03.29.39:787][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:787][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading NULL.
+[2018.05.29-03.29.39:788][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:788][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading NULL.
+[2018.05.29-03.29.39:788][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.39:789][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.39:789][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_400x200'
+[2018.05.29-03.29.39:789][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_400x200' while loading NULL.
+[2018.05.29-03.29.39:789][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Door_400x300'
+[2018.05.29-03.29.39:790][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Door_400x300' while loading NULL.
+[2018.05.29-03.29.39:790][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Window_400x300'
+[2018.05.29-03.29.39:790][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Window_400x300' while loading NULL.
+[2018.05.29-03.29.39:791][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:791][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading NULL.
+[2018.05.29-03.29.39:791][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:791][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading NULL.
+[2018.05.29-03.29.39:792][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:792][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading NULL.
+[2018.05.29-03.29.39:792][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:793][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading NULL.
+[2018.05.29-03.29.39:793][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:793][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading NULL.
+[2018.05.29-03.29.39:794][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:794][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading NULL.
+[2018.05.29-03.29.39:794][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:794][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading NULL.
+[2018.05.29-03.29.39:795][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:795][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading NULL.
+[2018.05.29-03.29.39:795][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.39:796][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.39:796][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_400x200'
+[2018.05.29-03.29.39:796][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_400x200' while loading NULL.
+[2018.05.29-03.29.39:797][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Door_400x300'
+[2018.05.29-03.29.39:797][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Door_400x300' while loading NULL.
+[2018.05.29-03.29.39:797][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Window_400x300'
+[2018.05.29-03.29.39:798][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Window_400x300' while loading NULL.
+[2018.05.29-03.29.39:801][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf83d30, Size=4
+[2018.05.29-03.29.39:801][524]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf83d30, Size=4, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_87:ExecuteUbergraph_StarterMap
+[2018.05.29-03.29.39:803][524]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf82d68, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.05.29-03.29.39:807][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:807][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading NULL.
+[2018.05.29-03.29.39:807][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'
+[2018.05.29-03.29.39:807][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' while loading NULL.
+[2018.05.29-03.29.39:807][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:808][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading NULL.
+[2018.05.29-03.29.39:808][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'
+[2018.05.29-03.29.39:808][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' while loading NULL.
+[2018.05.29-03.29.39:808][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:809][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading NULL.
+[2018.05.29-03.29.39:809][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'
+[2018.05.29-03.29.39:809][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' while loading NULL.
+[2018.05.29-03.29.39:809][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:810][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading NULL.
+[2018.05.29-03.29.39:810][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'
+[2018.05.29-03.29.39:810][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' while loading NULL.
+[2018.05.29-03.29.42:329][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:329][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_10
+[2018.05.29-03.29.42:329][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:330][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:330][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_11
+[2018.05.29-03.29.42:331][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:332][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:332][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_12
+[2018.05.29-03.29.42:332][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:333][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:333][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_13
+[2018.05.29-03.29.42:333][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:334][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:334][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_14
+[2018.05.29-03.29.42:334][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:335][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:335][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_15
+[2018.05.29-03.29.42:335][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:336][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:336][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_16
+[2018.05.29-03.29.42:336][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:337][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:337][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_17
+[2018.05.29-03.29.42:337][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:338][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:338][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_18
+[2018.05.29-03.29.42:338][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:339][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:339][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_19
+[2018.05.29-03.29.42:340][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:340][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:340][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_2
+[2018.05.29-03.29.42:341][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:341][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:341][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_20
+[2018.05.29-03.29.42:342][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:342][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:342][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_21
+[2018.05.29-03.29.42:343][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:343][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:344][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_22
+[2018.05.29-03.29.42:344][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:344][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:345][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_23
+[2018.05.29-03.29.42:345][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:345][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:346][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_24
+[2018.05.29-03.29.42:346][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:347][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:347][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_25
+[2018.05.29-03.29.42:347][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:348][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:348][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_26
+[2018.05.29-03.29.42:348][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:349][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:349][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_27
+[2018.05.29-03.29.42:350][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:350][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:350][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_28
+[2018.05.29-03.29.42:351][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:351][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:351][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_29
+[2018.05.29-03.29.42:352][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:352][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:353][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_3
+[2018.05.29-03.29.42:353][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:354][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:354][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_30
+[2018.05.29-03.29.42:354][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:355][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:355][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_31
+[2018.05.29-03.29.42:355][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:355][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:356][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_32
+[2018.05.29-03.29.42:356][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:356][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:357][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_33
+[2018.05.29-03.29.42:357][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:357][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:357][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_34
+[2018.05.29-03.29.42:358][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:358][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:358][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_35
+[2018.05.29-03.29.42:358][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:359][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:359][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_36
+[2018.05.29-03.29.42:359][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:360][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:360][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_37
+[2018.05.29-03.29.42:360][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:360][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:361][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_38
+[2018.05.29-03.29.42:361][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:361][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:362][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_39
+[2018.05.29-03.29.42:362][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:362][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:362][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_4
+[2018.05.29-03.29.42:363][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:363][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:363][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_40
+[2018.05.29-03.29.42:364][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:364][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:364][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_41
+[2018.05.29-03.29.42:364][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:365][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:365][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_42
+[2018.05.29-03.29.42:365][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:366][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:366][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_43
+[2018.05.29-03.29.42:366][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:367][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:367][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_5
+[2018.05.29-03.29.42:367][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:368][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:368][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_6
+[2018.05.29-03.29.42:368][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:369][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:369][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_7
+[2018.05.29-03.29.42:369][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:370][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:370][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_8
+[2018.05.29-03.29.42:370][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:371][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Floor_400x400'
+[2018.05.29-03.29.42:371][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_9
+[2018.05.29-03.29.42:371][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Floor_400x400' while loading NULL.
+[2018.05.29-03.29.42:449][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Window_400x300'
+[2018.05.29-03.29.42:450][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 Referenced by Wall_Door_400x300_6
+[2018.05.29-03.29.42:450][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Window_400x300' while loading NULL.
+[2018.05.29-03.29.42:452][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_Door_400x300'
+[2018.05.29-03.29.42:452][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 Referenced by Wall_Door_400x301_9
+[2018.05.29-03.29.42:453][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_Door_400x300' while loading NULL.
+[2018.05.29-03.29.42:454][524]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Wall_400x200'
+[2018.05.29-03.29.42:454][524]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 Referenced by Wall_Door_400x302
+[2018.05.29-03.29.42:455][524]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Wall_400x200' while loading NULL.
+[2018.05.29-03.29.44:326][524]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x45 distance field, 620 triangles, Range [-0.0, 0.4], SM_PillarFrame300
+[2018.05.29-03.29.44:326][524]LogMeshUtilities: Finished distance field build in 0.1s - 8x14x21 distance field, 128 triangles, Range [-0.1, 0.4], SM_WindowFrame
+[2018.05.29-03.29.44:561][524]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 963 triangles, Range [-0.1, 1.0], SM_Lamp_Wall
+[2018.05.29-03.29.44:762][524]LogMeshUtilities: Finished distance field build in 0.1s - 18x18x10 distance field, 4320 triangles, Range [-0.0, 1.0], SM_TableRound
+[2018.05.29-03.29.45:424][524]LogAIModule: Creating AISystem for world StarterMap
+[2018.05.29-03.29.45:762][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire Audio': Blueprint_Effect_Fire_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2018.05.29-03.29.45:762][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Smoke Audio': Blueprint_Effect_Smoke_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2018.05.29-03.29.45:762][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sparks Audio': Blueprint_Effect_Sparks_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Sparks_C_1
+[2018.05.29-03.29.45:762][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Steam AUdio': Blueprint_Effect_Steam_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2018.05.29-03.29.45:763][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'P_Fire': Blueprint_Effect_Fire_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2018.05.29-03.29.45:763][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'P_Smoke': Blueprint_Effect_Smoke_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2018.05.29-03.29.45:763][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sparks': Blueprint_Effect_Sparks_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Sparks_C_1
+[2018.05.29-03.29.45:763][524]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'P_Steam_Lit': Blueprint_Effect_Steam_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2018.05.29-03.29.45:989][526]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 960 triangles, Range [-0.7, 1.0], Shape_Sphere
+[2018.05.29-03.29.46:181][529]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x15 distance field, 8 triangles, Range [-0.4, 1.0], Shape_QuadPyramid
+[2018.05.29-03.29.46:408][532]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 444 triangles, Range [-0.5, 0.5], SM_CornerFrame
+[2018.05.29-03.29.46:653][535]LogMeshUtilities: Finished distance field build in 0.0s - 8x15x30 distance field, 572 triangles, Range [1.0, 1.0], SM_GlassWindow
+[2018.05.29-03.29.46:916][539]LogMeshUtilities: Finished distance field build in 0.1s - 8x17x31 distance field, 96 triangles, Range [-0.0, 0.5], SM_DoorFrame
+[2018.05.29-03.29.47:162][542]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x20 distance field, 2442 triangles, Range [-0.0, 0.4], SM_Lamp_Ceiling
+[2018.05.29-03.29.47:452][546]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x14 distance field, 768 triangles, Range [-0.6, 1.0], MaterialSphere
+[2018.05.29-03.29.47:742][549]LogMeshUtilities: Finished distance field build in 0.1s - 12x12x17 distance field, 1782 triangles, Range [-0.1, 1.0], SM_Chair
+[2018.05.29-03.29.48:014][553]LogMeshUtilities: Finished distance field build in 0.1s - 10x10x60 distance field, 620 triangles, Range [-0.0, 1.0], SM_PillarFrame
+[2018.05.29-03.29.48:248][556]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x12 distance field, 4024 triangles, Range [-0.2, 1.0], SM_Statue
+[2018.05.29-03.30.07:833][817]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.05.29-03.30.08:681][817]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bfaf50888, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.29-03.30.08:683][817]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bfaf50880, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.29-03.30.10:579][817]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.29-03.30.12:897][868]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.29-03.30.13:802][899]LogMeshUtilities: Finished distance field build in 3.7s - 64x64x30 distance field, 12 triangles, Range [-0.1, 0.5], PhAT_FloorBox
+[2018.05.29-03.30.41:013][805]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.29-03.30.41:091][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b252028e0, Size=136
+[2018.05.29-03.30.41:091][805]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c075004a0, Size=136, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_112:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.30.41:100][805]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bff1ec280, Size=168, Default__ThirdPersonCharacter_C Function /Game/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.30.41:768][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf83d30, Size=4
+[2018.05.29-03.30.42:925][837]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.29-03.30.42:961][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.30.42:962][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.29-03.30.42:996][837]PIE: New page: PIE session: VR_Lab (May 29, 2018, 7:30:42 PM)
+[2018.05.29-03.30.42:996][837]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_VR_Lab
+[2018.05.29-03.30.43:021][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023985s)
+[2018.05.29-03.30.43:022][837]LogAIModule: Creating AISystem for world VR_Lab
+[2018.05.29-03.30.43:022][837]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2018.05.29-03.30.43:022][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/VR_Lab.VR_Lab to /Game/StarterContent/Maps/UEDPIE_0_VR_Lab.VR_Lab (0.025573s)
+[2018.05.29-03.30.43:060][837]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.29-03.30.43:074][837]LogInit: FAudioDevice initialized.
+[2018.05.29-03.30.43:155][837]LogLoad: Game class is 'VRMode_C'
+[2018.05.29-03.30.43:170][837]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_VR_Lab.VR_Lab up for play (max tick rate 60) at 2018.05.29-11.30.43
+[2018.05.29-03.30.43:171][837]LogWorld: Bringing up level for play took: 0.015380
+[2018.05.29-03.30.43:172][837]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.29-03.30.43:172][837]LogBlueprintUserMessages: [ActorBP_202] Tab键: 说明菜单
+[2018.05.29-03.30.43:177][837]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_VR_Lab -0.745
+[2018.05.29-03.30.43:178][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.30.43:360][837]LogRenderer: Reallocating scene render targets to support 1292x784 Format 10 NumSamples 1 (Frame:1).
+[2018.05.29-03.30.45:545][893]LogNet: Browse: /Game/StarterContent/Maps/StarterMap
+[2018.05.29-03.30.45:578][893]LogLoad: LoadMap: /Game/StarterContent/Maps/StarterMap
+[2018.05.29-03.30.45:661][893]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2018.05.29-03.30.45:718][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056852s)
+[2018.05.29-03.30.45:719][893]LogAIModule: Creating AISystem for world StarterMap
+[2018.05.29-03.30.45:720][893]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2018.05.29-03.30.45:720][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.058916s)
+[2018.05.29-03.30.45:720][893]LogLoad: Game class is 'GameModeBase'
+[2018.05.29-03.30.45:735][893]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2018.05.29-11.30.45
+[2018.05.29-03.30.45:736][893]LogWorld: Bringing up level for play took: 0.014856
+[2018.05.29-03.30.45:814][893]LogLoad: Took 0.235915 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_0_StarterMap)
+[2018.05.29-03.30.56:182][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.30.56:203][207]LogSlate: Window 'VR_NewLab Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.29-03.30.56:256][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab' with GeneratedClass '/Game/StarterContent/Maps/VR_Lab.VR_Lab_C' with ClassGeneratedBy '/Game/StarterContent/Maps/VR_Lab.VR_Lab:PersistentLevel.VR_Lab'
+[2018.05.29-03.31.03:488][439]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.29-03.31.03:551][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027bff1ec280, Size=168
+[2018.05.29-03.31.03:551][439]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bae3ae980, Size=168, ThirdPersonCharacter_C_19 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_125:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.31.03:559][439]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bfef737e0, Size=136, Default__ThirdPersonCharacter_C Function /Game/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.29-03.31.14:398][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027bae3ae980, Size=168
+[2018.05.29-03.31.15:823][605]LogSlate: Window 'Save Content' being destroyed
+[2018.05.29-03.31.16:329][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter" FILE="E:/VR学习/VR_NewLab/Content/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.29-03.31.16:424][605]LogSavePackage: Save=77.84ms
+[2018.05.29-03.31.16:424][605]LogSavePackage: Moving 'E:/VR学习/VR_NewLab/Saved/ThirdPersonCharacterFC43CE344968E8A11AF0E090C30C5F9F.tmp' to 'E:/VR学习/VR_NewLab/Content/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.uasset'
+[2018.05.29-03.31.16:428][605]LogSavePackage: Display: Finished SavePackage E:/VR学习/VR_NewLab/Content/StarterContent/Blueprints/PersonBP/ThirdPersonCharacter.uasset
+[2018.05.29-03.31.16:713][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/VR_Lab" FILE="E:/VR学习/VR_NewLab/Content/StarterContent/Maps/VR_Lab.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.29-03.31.16:758][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b25fe1908, Size=4
+[2018.05.29-03.31.16:758][605]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bcde05e30, Size=4, Default__VR_Lab_C Function /Engine/Transient.REINST_VR_Lab_C_129:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.31.16:761][605]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027bcde063f0, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.31.17:351][605]LogSavePackage: Save=594.76ms
+[2018.05.29-03.31.17:351][605]LogSavePackage: Moving 'E:/VR学习/VR_NewLab/Saved/VR_Lab04C5D1B54CA7CB50F9BD22ADA059FC05.tmp' to 'E:/VR学习/VR_NewLab/Content/StarterContent/Maps/VR_Lab.umap'
+[2018.05.29-03.31.17:355][605]LogSavePackage: Display: Finished SavePackage E:/VR学习/VR_NewLab/Content/StarterContent/Maps/VR_Lab.umap
+[2018.05.29-03.31.17:378][605]LogFileHelpers: Saving map 'VR_Lab' took 0.950
+[2018.05.29-03.31.17:400][605]Cmd: MAP LOAD FILE="E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.29-03.31.17:400][605]LightingResults: New page: Lighting Build
+[2018.05.29-03.31.17:401][605]LoadErrors: New page: Loading map: StarterMap.umap
+[2018.05.29-03.31.17:406][605]MapCheck: New page: Map Check
+[2018.05.29-03.31.17:406][605]LightingResults: New page: Lighting Build
+[2018.05.29-03.31.17:434][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027bcde05e30, Size=4
+[2018.05.29-03.31.17:435][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027bcde063f0, Size=4
+[2018.05.29-03.31.17:589][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.29-03.31.17:642][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.29-03.31.17:924][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 281.873ms to complete.
+[2018.05.29-03.31.17:925][605]LogFileHelpers: Loading map 'StarterMap' took 0.546
+[2018.05.29-03.31.24:684][728]LogSlate: Window 'StarterMap - Level Blueprint Editor' being destroyed
+[2018.05.29-03.31.28:913][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.29-03.31.28:935][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.31.28:935][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.29-03.31.28:935][871]PIE: New page: PIE session: StarterMap (May 29, 2018, 7:31:28 PM)
+[2018.05.29-03.31.28:935][871]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2018.05.29-03.31.28:960][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024619s)
+[2018.05.29-03.31.28:961][871]LogAIModule: Creating AISystem for world StarterMap
+[2018.05.29-03.31.28:961][871]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2018.05.29-03.31.28:961][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.025861s)
+[2018.05.29-03.31.28:993][871]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.29-03.31.29:006][871]LogInit: FAudioDevice initialized.
+[2018.05.29-03.31.29:067][871]LogLoad: Game class is 'GameModeBase'
+[2018.05.29-03.31.29:078][871]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2018.05.29-11.31.29
+[2018.05.29-03.31.29:079][871]LogWorld: Bringing up level for play took: 0.011026
+[2018.05.29-03.31.29:083][871]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_StarterMap -0.839
+[2018.05.29-03.31.29:084][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.31.35:453][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.31.35:469][ 54]LogSlate: Window 'VR_NewLab Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.29-03.31.35:531][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.31.53:203][642]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.29-03.31.53:224][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.31.53:224][642]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.29-03.31.53:228][642]LogPlayLevel: [PlayLevel] Compiling StarterMap before play...
+[2018.05.29-03.31.53:233][642]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf82d68, Size=4
+[2018.05.29-03.31.53:233][642]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c1d47b9a0, Size=4, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_133:ExecuteUbergraph_StarterMap
+[2018.05.29-03.31.53:236][642]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c1d7c1648, Size=40, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.05.29-03.31.53:404][642]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c1d47b9a0, Size=4
+[2018.05.29-03.31.53:405][642]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2018.05.29-03.31.53:405][642]PIE: New page: PIE session: StarterMap (May 29, 2018, 7:31:53 PM)
+[2018.05.29-03.31.53:405][642]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2018.05.29-03.31.53:428][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023020s)
+[2018.05.29-03.31.53:429][642]LogAIModule: Creating AISystem for world StarterMap
+[2018.05.29-03.31.53:429][642]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.05.29-03.31.53:430][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.024378s)
+[2018.05.29-03.31.53:462][642]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.29-03.31.53:479][642]LogInit: FAudioDevice initialized.
+[2018.05.29-03.31.53:534][642]LogLoad: Game class is 'GameModeBase'
+[2018.05.29-03.31.53:547][642]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2018.05.29-11.31.53
+[2018.05.29-03.31.53:548][642]LogWorld: Bringing up level for play took: 0.012393
+[2018.05.29-03.31.53:551][642]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_StarterMap -0.371
+[2018.05.29-03.31.53:551][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.31.58:860][788]LogNet: Browse: /Game/StarterContent/Maps/VR_Lab
+[2018.05.29-03.31.58:894][788]LogLoad: LoadMap: /Game/StarterContent/Maps/VR_Lab
+[2018.05.29-03.31.59:149][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c102eca98, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.31.59:150][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c102eca98, Size=4
+[2018.05.29-03.31.59:150][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c102eca98, Size=4, Default__VR_Lab_C Function /Engine/Transient.REINST_VR_Lab_C_135:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.31.59:153][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c102ed050, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-03.32.16:853][788]LogAIModule: Creating AISystem for world VR_Lab
+[2018.05.29-03.32.16:853][788]LogLoad: Game class is 'VRMode_C'
+[2018.05.29-03.32.16:884][788]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_VR_Lab.VR_Lab up for play (max tick rate 60) at 2018.05.29-11.32.16
+[2018.05.29-03.32.16:885][788]LogWorld: Bringing up level for play took: 0.029931
+[2018.05.29-03.32.16:885][788]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.05.29-03.32.16:886][788]LogBlueprintUserMessages: [ActorBP_202] Tab键: 说明菜单
+[2018.05.29-03.32.16:890][788]LogLoad: Took 17.995481 seconds to LoadMap(/Game/StarterContent/Maps/VR_Lab)
+[2018.05.29-03.32.22:697][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.32.22:714][937]LogSlate: Window 'VR_NewLab Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.29-03.32.22:778][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.32.22:812][937]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c102ed050, Size=4
+[2018.05.29-03.32.22:812][937]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c102eca98, Size=4
+[2018.05.29-03.32.26:238][ 55]BlueprintLog: New page: Compile StarterMap
+[2018.05.29-03.32.26:242][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c1d7c1648, Size=40
+[2018.05.29-03.32.26:242][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b27be2188, Size=40, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_139:ExecuteUbergraph_StarterMap
+[2018.05.29-03.32.26:244][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c102ec1d0, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.05.29-03.32.29:067][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/StarterMap" FILE="E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.29-03.32.29:111][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b27be2188, Size=40
+[2018.05.29-03.32.29:207][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c102ec1d0, Size=4
+[2018.05.29-03.32.29:207][ 69]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf83938, Size=4, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_143:ExecuteUbergraph_StarterMap
+[2018.05.29-03.32.29:209][ 69]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf82e90, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.05.29-03.32.29:737][ 69]LogSavePackage: Save=534.89ms
+[2018.05.29-03.32.29:737][ 69]LogSavePackage: Moving 'E:/VR学习/VR_NewLab/Saved/StarterMap20FE57E2427D28128D3D19AE4163B493.tmp' to 'E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap'
+[2018.05.29-03.32.29:743][ 69]LogSavePackage: Display: Finished SavePackage E:/VR学习/VR_NewLab/Content/StarterContent/Maps/StarterMap.umap
+[2018.05.29-03.32.29:766][ 69]LogFileHelpers: Saving map 'StarterMap' took 2.333
+[2018.05.29-03.32.52:879][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-03.32.52:974][699]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.29-03.32.52:995][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.32.52:996][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.29-03.32.52:996][699]PIE: New page: PIE session: StarterMap (May 29, 2018, 7:32:52 PM)
+[2018.05.29-03.32.52:996][699]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2018.05.29-03.32.53:019][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023325s)
+[2018.05.29-03.32.53:020][699]LogAIModule: Creating AISystem for world StarterMap
+[2018.05.29-03.32.53:020][699]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.05.29-03.32.53:020][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.024490s)
+[2018.05.29-03.32.53:049][699]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf83938, Size=4
+[2018.05.29-03.32.53:054][699]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.29-03.32.53:067][699]LogInit: FAudioDevice initialized.
+[2018.05.29-03.32.53:104][699]LogLoad: Game class is 'GameModeBase'
+[2018.05.29-03.32.53:115][699]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2018.05.29-11.32.53
+[2018.05.29-03.32.53:115][699]LogWorld: Bringing up level for play took: 0.010706
+[2018.05.29-03.32.53:117][699]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_StarterMap -0.805
+[2018.05.29-03.32.53:118][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.33.03:015][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-03.33.03:075][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2018.05.29-06.27.10:697][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-06.27.25:600][870]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf80da8, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-06.27.25:602][870]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf80da8, Size=4
+[2018.05.29-06.27.25:602][870]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf80da8, Size=4, Default__VR_Lab_C Function /Engine/Transient.REINST_VR_Lab_C_145:ExecuteUbergraph_VR_Lab
+[2018.05.29-06.27.25:605][870]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027b9cf80d10, Size=4, Default__VR_Lab_C Function /Game/StarterContent/Maps/VR_Lab.VR_Lab_C:ExecuteUbergraph_VR_Lab
+[2018.05.29-06.27.25:737][870]LogAIModule: Creating AISystem for world VR_Lab
+[2018.05.29-06.27.25:802][870]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf80da8, Size=4
+[2018.05.29-06.27.25:806][870]Cmd: MAP LOAD FILE="E:/VR学习/VR_NewLab/Content/StarterContent/Maps/VR_Lab.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.29-06.27.25:806][870]LightingResults: New page: Lighting Build
+[2018.05.29-06.27.25:808][870]LoadErrors: New page: Loading map: VR_Lab.umap
+[2018.05.29-06.27.26:036][870]MapCheck: New page: Map Check
+[2018.05.29-06.27.26:036][870]LightingResults: New page: Lighting Build
+[2018.05.29-06.27.26:066][870]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027b9cf82e90, Size=4
+[2018.05.29-06.27.26:392][870]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.29-06.27.26:446][870]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.29-06.27.26:739][870]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 292.599ms to complete.
+[2018.05.29-06.27.26:743][870]LogFileHelpers: Loading map 'VR_Lab' took 0.939
+[2018.05.29-06.46.24:351][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: request failed, libcurl error: 52 (Server returned nothing (no headers, no data))
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27b2f1dffb8 [can pipeline])
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.174.89.230) port 443 (#23))
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 3 (upload completely sent off: 358 out of 358 bytes)
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.05.29-09.21.58:711][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 6 (Closing connection 23)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA98FF44-420E-92B8-9DBF-D4AAA986DBAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=e97fa1a546425bbbbf5b6b8ba20827fa%7Ca1bb96ee863e4a4696b5ebe5ce071ce9%7C3972b3fe-e83e-49ad-a3ac-ca0e52a61632&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 9 (  Trying 34.238.221.216...)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.238.221.216) port 443 (#24))
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 13 (SSL re-using session ID)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 20 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 22 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 23 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 24 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 25 (ALPN, server did not agree to a protocol)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 26 (old SSL session ID is stale, removing)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 27 (Server certificate:)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 28 (	 subject: CN=*.ol.epicgames.com)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 29 (	 start date: Mar 12 00:00:00 2018 GMT)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 30 (	 expire date: Apr 12 12:00:00 2019 GMT)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 31 (	 subjectAltName: datarouter.ol.epicgames.com matched)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 32 (	 issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 33 (	 SSL certificate verify ok.)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 34 (upload completely sent off: 358 out of 358 bytes)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 35 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 36 (Empty reply from server)
+[2018.05.29-09.21.58:712][427]LogHttp: Warning: 0000027BDDF25D80: libcurl info message cache 37 (Connection #24 to host datarouter.ol.epicgames.com left intact)
+[2018.05.29-09.37.15:034][176]LogHttp: Warning: 0000027C0FEEFB80: request failed, libcurl error: 52 (Server returned nothing (no headers, no data))
+[2018.05.29-09.37.15:034][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27b2f1dffe8 [can pipeline])
+[2018.05.29-09.37.15:034][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 1 (Re-using existing connection! (#29) with host datarouter.ol.epicgames.com)
+[2018.05.29-09.37.15:034][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.207.107.232) port 443 (#29))
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 3 (upload completely sent off: 357 out of 357 bytes)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 6 (Closing connection 29)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA98FF44-420E-92B8-9DBF-D4AAA986DBAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=e97fa1a546425bbbbf5b6b8ba20827fa%7Ca1bb96ee863e4a4696b5ebe5ce071ce9%7C3972b3fe-e83e-49ad-a3ac-ca0e52a61632&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 9 (  Trying 52.202.144.188...)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.202.144.188) port 443 (#30))
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 13 (SSL re-using session ID)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.05.29-09.37.15:035][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 20 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 22 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 23 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 24 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 25 (ALPN, server did not agree to a protocol)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 26 (old SSL session ID is stale, removing)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 27 (Server certificate:)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 28 (	 subject: CN=*.ol.epicgames.com)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 29 (	 start date: Mar 12 00:00:00 2018 GMT)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 30 (	 expire date: Apr 12 12:00:00 2019 GMT)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 31 (	 subjectAltName: datarouter.ol.epicgames.com matched)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 32 (	 issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 33 (	 SSL certificate verify ok.)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 34 (upload completely sent off: 357 out of 357 bytes)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 35 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.05.29-09.37.15:036][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 36 (Empty reply from server)
+[2018.05.29-09.37.15:037][176]LogHttp: Warning: 0000027C0FEEFB80: libcurl info message cache 37 (Connection #30 to host datarouter.ol.epicgames.com left intact)
+[2018.05.29-12.51.34:514][887]LogHttp: Warning: 0000027BDE294E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27b2f1dffe8 [can pipeline])
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 1 (Re-using existing connection! (#62) with host datarouter.ol.epicgames.com)
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.79.197) port 443 (#62))
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 3 (upload completely sent off: 363 out of 363 bytes)
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10053)
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 6 (Closing connection 62)
+[2018.05.29-12.51.34:869][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA98FF44-420E-92B8-9DBF-D4AAA986DBAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=e97fa1a546425bbbbf5b6b8ba20827fa%7Ca1bb96ee863e4a4696b5ebe5ce071ce9%7C3972b3fe-e83e-49ad-a3ac-ca0e52a61632&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.05.29-12.51.34:884][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.29-12.51.34:884][887]LogHttp: Warning: 0000027BDE294E80: libcurl info message cache 9 (Closing connection 63)
+[2018.05.29-13.14.59:349][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-13.38.54:850][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
